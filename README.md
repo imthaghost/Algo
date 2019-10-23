@@ -1,8 +1,6 @@
 ## :triangular_ruler: Challenges/Solutions
 
--   [x] ex
--   [x] ex
--   [ ] ex
+-   [x] Minimum Heigh Tirangle
 
 ## :octocat: Signature
 
