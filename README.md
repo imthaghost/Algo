@@ -1,1 +1,9 @@
-Take a look inside each file for my solution. 
+## :triangular_ruler: Challenges/Solutions
+
+-   [x] ex
+-   [x] ex
+-   [ ] ex
+
+## :octocat: Signature
+
+-   Author: @imthahost
