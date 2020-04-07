@@ -7,5 +7,9 @@ def isEven(k):
         return False
 
 
-n = 6
-print(isEven(n))
+print(isEven(6))
+print(isEven(1))
+print(isEven(4))
+print(isEven(0))
+print(isEven(3))
+print(isEven(9))
