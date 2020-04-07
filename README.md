@@ -1,5 +1,5 @@
 <p align="center">
-A home for my competitive programming algorithms
+A home for all my algorithms
 </p>
 <br>
 <p align="center">
