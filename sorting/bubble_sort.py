@@ -16,8 +16,7 @@ def bubble_sort(items):
         sorted = True
         # for each item in the array
         for i in range(last):
-            # bitwise calculation
-            # greater()
+            
             if items[i] > items[i+1]:
                 # swap values
                 swap(items, i, i+1)

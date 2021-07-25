@@ -6,5 +6,5 @@ def isValidSubsequence(array, sequence):
         if p1 in array:
             p1 = sequence[i] + 1
         else:
-            return false
-    return true        
+            return False
+    return True        
