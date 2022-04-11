@@ -7,16 +7,8 @@ A home for all my algorithms
 <br>
 
 ## Table of Contents
+- [AlgoExpert](#)
+- [LeetCode](#)
+- [HackerRank](#)
+- [Competitive Programming](#)
 
--   [Recursion](#)
--   [Bit Manipulation](#)
--   [Efficiency](#)
--   [Sorting & Searching](#)
--   [Data Structures](#)
--   [Dynamics](#)
--   [Graph Algorithms](#)
--   [Algorithm Design](#)
--   [Range Queries](#)
--   [Tree Algorithms](#)
--   [Mathematical Formulas](#)
--   [Connectivity & Complete Paths](#)
